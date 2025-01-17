@@ -3,7 +3,7 @@
 title: Cristina Botta
 
 # Name pronunciation (optional)
-  name_pronunciation: ''
+name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Cristina Laura
