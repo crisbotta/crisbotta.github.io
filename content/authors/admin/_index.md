@@ -57,7 +57,7 @@ interests:
 
 education:
   - area: Postgraduate Degree In Higher Education
-    institution: University of Bremen | University of the Arts Bremen | University of Applied Sciences Bremen | University of Applied Sciences Bremerhaven
+    institution: Centro Universitário SENAC
     date_start: 2011
     date_end: 2012
     summary: |
@@ -72,7 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MSc in Digital Media
-    institution: University of Bremen | University of the Arts Bremen | Hochschule Bremen | Hochschule Bremerhaven
+    institution: University of Bremen | University of the Arts Bremen | Universitiy of Applied Sciences Bremen | Universitiy of Applied Sciences Bremerhaven
     date_start: 2008
     date_end: 2011
     summary: |
