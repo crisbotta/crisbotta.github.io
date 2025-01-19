@@ -206,7 +206,7 @@ skills:
       - name: Baking/Cooking
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: hero/cake
       - name: Strategy Video Games
         description: ''
         percent: 80
@@ -214,7 +214,7 @@ skills:
       - name: Lego
         description: ''
         percent: 70
-        icon: cat
+        icon: hero/rectangle-group
       - name: Photography
         description: ''
         percent: 70
