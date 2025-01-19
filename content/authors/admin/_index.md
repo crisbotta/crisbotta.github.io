@@ -111,8 +111,8 @@ work:
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
     company_logo: ''
-    date_start: 05-2012
-    date_end: 06-2022
+    date_start: Mai-10-2012
+    date_end: Jun-10-2022
     summary: |
       Responsibilities include:
       - Elaborate and teach workshops, activities, and courses on subjects related to arts, culture, technology,
@@ -133,8 +133,8 @@ work:
     company_name: IN2 - Ai-Powered Web Solutions
     company_url: 'https://in-two.com/'
     company_logo: ''
-    date_start: 04-2009
-    date_end: 10-2009
+    date_start: Apr-01-2009
+    date_end: Nov-01-2009
     summary: |
       - Analysis and feedback of user requirements.
       - Contribute to the elaboration of business, dissemination, and communication plans.
@@ -143,8 +143,8 @@ work:
     company_name: Gabler Werbeagentur GmbH
     company_url: 'https://www.werbe-gabler.com/'
     company_logo: ''
-    date_start: 06-2008
-    date_end: 12-2008
+    date_start: Jun-01-2008
+    date_end: Dec-20-2008
     summary: |
       - Design of websites, logos, flyers, mascots, catalogues, and visual identity.
       - Flash animations and web banners, and the HTML/CSS part of websites.
@@ -152,8 +152,8 @@ work:
     company_name: Lua Branca
     company_url: 'http://www.lua.ag'
     company_logo: ''
-    date_start: 01-2006
-    date_end: 02-2008
+    date_start: Jan-10-2006
+    date_end: Fev-15-2008
     summary: |
       - Design of logos and flyers, image treatment, illustration, layout.
       - Development of Flash websites, animations and web banners.
@@ -163,34 +163,62 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Java / C
+      - name: Office Software (LibreOffice, Microsoft Office / 360, Nextcloud)
+        description: ''
+        percent: 90
+        icon: hero/clipboard-document-list
+      - name: Graphics Software (Gimp, Krita, Inkscape, Adobe Creative Suite)
+        description: ''
+        percent: 80
+        icon: circle-stack
+      - name: Java / C / Python / JavaScript
         description: ''
         percent: 20
         icon: code-bracket
-      - name: Scratch
+      - name: Video Editing
         description: ''
-        percent: 90
-        icon: chart-bar
+        percent: 50
+        icon: hero/film
       - name: HTML/CSS
         description: ''
         percent: 60
+        icon: devicon/html5-plain
+      - name: Godot
+        description: ''
+        percent: 40
+        icon: devicon/godot-plain
+      - name: Scratch
+        description: ''
+        percent: 90
         icon: circle-stack
+      - name: LaTeX
+        description: ''
+        percent: 60
+        icon: devicon/latex-original
+      - name: Zotero
+        description: ''
+        percent: 90
+        icon: academicon/zotero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Baking/Cooking
         description: ''
-        percent: 60
+        percent: 80
         icon: person-simple-walk
-      - name: Cats
+      - name: Strategy Video Games
         description: ''
-        percent: 100
+        percent: 80
+        icon: hero/cog-8-tooth
+      - name: Lego
+        description: ''
+        percent: 70
         icon: cat
       - name: Photography
         description: ''
-        percent: 80
-        icon: camera
+        percent: 70
+        icon: hero/camera
 
 languages:
   - name: Portuguese
