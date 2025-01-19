@@ -37,7 +37,7 @@ profiles:
     url: https://www.linkedin.com/in/crisbotta/
   - icon: brands/github
     url: https://github.com/safkhet
-  - icon: brands/codeberg
+  - icon: code-bracket
     url: https://codeberg.org/crisbotta/
   - icon: academicons/academia
     url: https://independent.academia.edu/crisbotta
