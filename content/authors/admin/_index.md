@@ -111,8 +111,8 @@ work:
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
     company_logo: ''
-    date_start: 05/2012
-    date_end: 06/2022
+    date_start: 05-2012
+    date_end: 06-2022
     summary: |
       Responsibilities include:
       - Elaborate and teach workshops, activities, and courses on subjects related to arts, culture, technology,
@@ -133,8 +133,8 @@ work:
     company_name: IN2 - Ai-Powered Web Solutions
     company_url: 'https://in-two.com/'
     company_logo: ''
-    date_start: 04/2009
-    date_end: 10/2009
+    date_start: 04-2009
+    date_end: 10-2009
     summary: |
       - Analysis and feedback of user requirements.
       - Contribute to the elaboration of business, dissemination, and communication plans.
@@ -143,8 +143,8 @@ work:
     company_name: Gabler Werbeagentur GmbH
     company_url: 'https://www.werbe-gabler.com/'
     company_logo: ''
-    date_start: 06/2008
-    date_end: 12/2008
+    date_start: 06-2008
+    date_end: 12-2008
     summary: |
       - Design of websites, logos, flyers, mascots, catalogues, and visual identity.
       - Flash animations and web banners, and the HTML/CSS part of websites.
@@ -152,8 +152,8 @@ work:
     company_name: Lua Branca
     company_url: 'http://www.lua.ag'
     company_logo: ''
-    date_start: 01/2006
-    date_end: 02/2008
+    date_start: 01-2006
+    date_end: 02-2008
     summary: |
       - Design of logos and flyers, image treatment, illustration, layout.
       - Development of Flash websites, animations and web banners.
