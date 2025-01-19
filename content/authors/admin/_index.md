@@ -111,7 +111,7 @@ work:
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
     company_logo: ''
-    date_start: Mai-10-2012
+    date_start: May-10-2012
     date_end: Jun-10-2022
     summary: |
       Responsibilities include:
@@ -153,7 +153,7 @@ work:
     company_url: 'http://www.lua.ag'
     company_logo: ''
     date_start: Jan-10-2006
-    date_end: Fev-15-2008
+    date_end: Feb-15-2008
     summary: |
       - Design of logos and flyers, image treatment, illustration, layout.
       - Development of Flash websites, animations and web banners.
