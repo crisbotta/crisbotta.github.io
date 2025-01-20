@@ -58,8 +58,8 @@ interests:
 education:
   - area: Postgraduate Degree In Higher Education
     institution: Centro Universitário SENAC
-    date_start: 2011
-    date_end: 2012
+    date_start: 2011-06-01
+    date_end: 2012-06-01
     summary: |
       - The course focused mostly on andragogy and adult education, but pedagogy was also discussed and used as a base for teaching techniques comparisons.
       - My dissertation focused on the history, design and use of educational software and games, and on the creation and implementation of a postgraduate course to teach educational game design.
@@ -73,13 +73,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: MSc in Digital Media
     institution: University of Bremen | University of the Arts Bremen | Universitiy of Applied Sciences Bremen | Universitiy of Applied Sciences Bremerhaven
-    date_start: 2008
-    date_end: 2011
+    date_start: 2008-07-01
+    date_end: 2011-04-01
     summary: |
       - Inter-University Study Program in cooperation between the University of Bremen, University of the Arts Bremen, and Universities of Applied Sciences Bremen and Bremerhaven.
       - Master project focused on game-based learning, mobile and context aware games, and interaction design.
       - My master thesis focused on how some storytelling structures and the limitations of simulations affect how video games are designed and played.
-      Grade: 1.2
       button:
         text: 'Read Thesis'
         url: 'https://www.academia.edu/44443054/'
@@ -91,16 +90,16 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BA in Graphic Design
     institution: Centro Universitário Belas Artes de São Paulo
-    date_start: 2001
-    date_end: 2005
+    date_start: 2001-01-01
+    date_end: 2005-01-01
     summary: |
-      Grade: 8.8/10.0
+      - My graduation project focused on showing through images and design the importance of play during childhood.
      
 work:
   - position: Graphic Designer / Consultant
     company_name: Self-Employed
     company_url: ''
-    company_logo: 'custom/pencil-cog'
+    company_logo: 'assets/media/icons/custom/pencil-cog'
     date_start: 2005-01-01
     date_end: ''
     summary: |2-
@@ -110,7 +109,7 @@ work:
   - position: Arts And Technology Educator
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
-    company_logo: 'custom/logosesc'
+    company_logo: 'assets/media/icons/custom/logosesc'
     date_start: 2012-05-10
     date_end: 2022-06-10
     summary: |
@@ -132,7 +131,7 @@ work:
   - position: Junior Consultant
     company_name: IN2 - Ai-Powered Web Solutions
     company_url: 'https://in-two.com/'
-    company_logo: 'custom/logoin2'
+    company_logo: 'assets/media/icons/custom/logoin2'
     date_start: 2009-04-01
     date_end: 2009-11-01
     summary: |
@@ -142,7 +141,7 @@ work:
   - position: Junior Designer
     company_name: Gabler Werbeagentur GmbH
     company_url: 'https://www.werbe-gabler.com/'
-    company_logo: 'custom/logogabler'
+    company_logo: 'assets/media/icons/custom/logogabler'
     date_start: 2008-06-01
     date_end: 2008-12-20
     summary: |
@@ -151,7 +150,7 @@ work:
   - position: Art Assistant
     company_name: Lua Branca
     company_url: 'http://www.lua.ag'
-    company_logo: 'custom/logolua'
+    company_logo: 'assets/media/icons/custom/logolua'
     date_start: 2006-01-10
     date_end: 2008-02-15
     summary: |
