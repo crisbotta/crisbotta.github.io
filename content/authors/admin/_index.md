@@ -84,6 +84,7 @@ education:
         text: 'Read Thesis'
         url: 'https://www.academia.edu/44443054/'
 
+
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -182,11 +183,11 @@ skills:
       - name: HTML/CSS
         description: ''
         percent: 60
-        icon: devicon/html5-plain
+        icon: devicon/html5
       - name: Godot
         description: ''
         percent: 40
-        icon: devicon/godot-plain
+        icon: devicon/godot
       - name: Scratch
         description: ''
         percent: 90
@@ -194,11 +195,11 @@ skills:
       - name: LaTeX
         description: ''
         percent: 60
-        icon: devicon/latex-original
+        icon: devicon/latex
       - name: Zotero
         description: ''
         percent: 90
-        icon: academicon/zotero
+        icon: academicons/zotero
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
