@@ -100,18 +100,17 @@ work:
   - position: Graphic Designer / Consultant
     company_name: Self-Employed
     company_url: ''
-    company_logo: ''
-    date_start: 2005
+    company_logo: 'custom/pencil-cog'
+    date_start: 2005-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - Design of logos, visual identity, mascots, flyers, presentation materials and websites. Photography processing/treatment and illustrations.
-      - Teach private classes on graphics software, Linux and FOSS
-      - Text and translations revisions
+      - Logos, flyers, image treatment, illustration, layout, webdesign.
+      - Advising/teaching on matters related to open source software, Linux, digital literacy, and digital privacy and security.
   - position: Arts And Technology Educator
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
-    company_logo: ''
+    company_logo: 'custom/logosesc'
     date_start: 2012-05-10
     date_end: 2022-06-10
     summary: |
@@ -133,7 +132,7 @@ work:
   - position: Junior Consultant
     company_name: IN2 - Ai-Powered Web Solutions
     company_url: 'https://in-two.com/'
-    company_logo: ''
+    company_logo: 'custom/logoin2'
     date_start: 2009-04-01
     date_end: 2009-11-01
     summary: |
@@ -143,7 +142,7 @@ work:
   - position: Junior Designer
     company_name: Gabler Werbeagentur GmbH
     company_url: 'https://www.werbe-gabler.com/'
-    company_logo: ''
+    company_logo: 'custom/logogabler'
     date_start: 2008-06-01
     date_end: 2008-12-20
     summary: |
@@ -152,7 +151,7 @@ work:
   - position: Art Assistant
     company_name: Lua Branca
     company_url: 'http://www.lua.ag'
-    company_logo: ''
+    company_logo: 'custom/logolua'
     date_start: 2006-01-10
     date_end: 2008-02-15
     summary: |
@@ -171,7 +170,7 @@ skills:
       - name: Graphics Software (Gimp, Krita, Inkscape, Adobe Creative Suite)
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: custom/logokrita
       - name: Java / C / Python / JavaScript
         description: ''
         percent: 20
@@ -191,7 +190,7 @@ skills:
       - name: Scratch
         description: ''
         percent: 90
-        icon: circle-stack
+        icon: custom/logoscratch
       - name: LaTeX
         description: ''
         percent: 60
