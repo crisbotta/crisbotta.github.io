@@ -111,7 +111,7 @@ work:
     company_name: SESC SP (Serviço Social Do Comércio de São Paulo)
     company_url: 'https://www.sescsp.org.br/'
     company_logo: ''
-    date_start: May-10-2012
+    date_start: 2012-05-10
     date_end: Jun-10-2022
     summary: |
       Responsibilities include:
